@@ -13,7 +13,8 @@ function jadval(num){
         }
         c+= '\n';
     }
+    //HOOOHOOOHAAHAA
     console.log(c);
-}
+}j
 
 jadval(10);
