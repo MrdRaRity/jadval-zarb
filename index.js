@@ -17,6 +17,6 @@ function jadval(num){
     //For Test Push
     //For Test Pull
     console.log(c);
-}j
+}
 
 jadval(10);
