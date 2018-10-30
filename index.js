@@ -14,6 +14,7 @@ function jadval(num){
         c+= '\n';
     }
     //HOOOHOOOHAAHAA
+    //For Test
     console.log(c);
 }j
 
